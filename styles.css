@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+h1{
+    color: rgb(37, 9, 9);
+    font-family: 'Pacifico';
+    font-weight: absolute;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+}
+h2{
+    color:rgb(58,3,3);
+    font-family: 'Pacifico';
+    margin: 0 auto 10px auto;
+    width: 80%;
+}
+
+p{
+    font-family: 'helvetica';
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: space-between;
+    
+}
+li{
+    font-family: 'Lucida Sans';
+    font-size: 20px;
+    margin-top: 50px;
+    
+}
+body{
+    background-image: url('chocolate.jpg');
+    background-color: bisque;
+    margin: 0 0 30px 0;
+    padding: 30px;
+
+}
+figure {
+    margin: auto;
+    padding: 5px;
+    width: 90%;
+    background-color: rgb(255, 228, 196);
+}
+figcaption {
+    font-family: "Lucida Sans";
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.mat-card{
+    border-radius: 32px;
+    margin: 10px 10px;
+    padding: 20px;
+    border-color: rgb(112, 108, 55);
+   
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: bisque;
+}
+.card-body{
+    background-color: bisque;
+}
+.card-text{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.link-text {
+    font-family: "Source Sans Pro";
+}
+#definicion{
+   margin-bottom: 100px;
+   
+}
+#tribute-link {
+    text-decoration: none;
+}
+
+#image {
+    display: block;
+    margin: 40px auto 20px auto;
+    max-width: 100%;
+    background-color: rgb(255, 228, 196);
+    
+}
+#img-div {
+    border-radius: 5px;
+    margin: 40px auto 60px auto;
+    width: 60%;
+    background-color: rgb(255, 228, 196);
+}
+#tribute-info {
+    background-color: rgb(255, 228, 196);
+}
+#figur{
+    background-color: rgb(255, 228, 196);
+}
